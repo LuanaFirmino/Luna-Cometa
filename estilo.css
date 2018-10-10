@@ -1,0 +1,74 @@
+/*exibeImage*/
+#tabelinea{
+position:relative;
+border:2px;
+width: 300px;
+height: 300px;
+}
+
+#btn{
+width:100px;
+bottom:bottom;
+background:#3eb4c1;
+height:50px;
+color:#ffffff;
+border-radius:90%;
+}
+
+/*Index*/
+#caixaGrande{
+width:100vw;
+height:100vh;
+display:flex;
+justify-content:center;
+flex-direction:row;
+align-items:center;
+background:#6C7A89;
+}
+#caixaPequena{
+border-top:9px solid #3eb4c1;	
+width:300px;
+height:300px;
+background:#fff;
+text-align: center;
+}
+body{margin:0px;}
+
+header{color:#808080;
+padding:3px;}
+
+form{padding:6px;}
+
+#Botoes{
+	
+width:100px;
+bottom:bottom;
+background:#3eb4c1;
+height:50px;
+color:#ffffff;
+}
+
+/*Isere Fotos*/
+#caixaGrande{
+width:100vw;
+height:100vh;
+display:flex;
+justify-content:center;
+flex-direction:row;
+align-items:center;
+background:#6C7A89;
+}
+
+#insere{
+border-top:9px solid #3eb4c1;	
+width:300px;
+height:300px;
+background:#fff;
+text-align: center;
+}
+a:link
+{
+text-decoration:none;
+} 
+
+
